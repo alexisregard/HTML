@@ -1,0 +1,12 @@
+body{
+    background-image: url("pingouin.png");
+    background-size: cover;
+    background-color: firebrick;
+}
+
+.titre{
+    font-family: "Agency FB";
+    font-size: 45px;
+    font-weight: bold;
+    color: azure;
+}
