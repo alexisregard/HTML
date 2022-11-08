@@ -41,13 +41,8 @@
 }
 
 body{
-    background-image: url("feuilles.png");
+    background: url("pingouin.png") fixed no-repeat top center, url("feuilles.png") fixed;
     background-attachment: fixed;
 }
 
-.image{
-    position: relative;
-    opacity: 0.50;
-    text-align: center;
-    background-attachment: scroll;
-}
+
