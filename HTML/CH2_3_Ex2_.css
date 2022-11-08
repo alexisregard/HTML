@@ -4,9 +4,32 @@ body{
     background-color: firebrick;
 }
 
-.titre{
-    font-family: "Agency FB";
-    font-size: 45px;
-    font-weight: bold;
+
+
+
+h1{
     color: azure;
+    font-size: 42px;
+}
+
+h2{
+    color: aliceblue;
+    font-size: 34px;
+
+}
+
+p{
+    color: aliceblue;
+    font-size: 22px;
+
+
+}
+
+.section{
+    background-color: darkmagenta;
+}
+
+.article{
+    background-color: darkolivegreen;
+    margin-left: 20px;
 }
